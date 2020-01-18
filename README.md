@@ -1,10 +1,8 @@
 # portfolio
 Code 301 Lab: 04b - RWD Portfolio
 
-Deployed Portfolio: https://sueduclosportfolio.herokuapp.com/
-
 ```
-Number and name of feature: ________________________________
+Number and name of feature: 
 
 Estimate of time needed to complete: _____
 
@@ -42,3 +40,5 @@ Then the portfolio contents should be displayed
   - In tablet view, show a fixed navigation menu instead of a hamburger menu
   - Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
   - Add any other UI features that you feel will make your portfolio unique and personalized
+
+Deployed Portfolio: https://sueduclosportfolio.herokuapp.com/
